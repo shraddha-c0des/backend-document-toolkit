@@ -20,5 +20,5 @@ This repository is split into two decoupled layers for high scalability:
 ## 🚀 Quick Start
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/backend-document-toolkit.git](https://github.com/YOUR_USERNAME/backend-document-toolkit.git)
-   cd backend-document-toolkit
+   git clone [https://github.com/shraddha-c0des/backend-document-toolkit/tree/main](https://github.com/shraddha-c0des/backend-document-toolkit/tree/main)
+   C:\Users\shrad\OneDrive\Desktop\backend_toolkit
